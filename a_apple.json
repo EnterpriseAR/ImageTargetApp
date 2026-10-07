@@ -1,0 +1,7 @@
+{
+    "id" : "a_apple_1",
+    "targetName" : "a_apple",
+    "targetImageURL" : "https://raw.githubusercontent.com/EnterpriseAR/ImageTargetApp/refs/heads/main/A_Apple.png",
+    "targetWidth": 0.25,
+    "targetData": "A for Apple"
+}
